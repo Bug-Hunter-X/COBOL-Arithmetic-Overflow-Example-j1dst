@@ -1,0 +1,1 @@
+This repository demonstrates a common COBOL programming error: arithmetic overflow.  The `bug.cob` file shows code that attempts an addition resulting in data truncation. The `bugSolution.cob` file provides a corrected version.
